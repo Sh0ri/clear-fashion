@@ -1,0 +1,25 @@
+{
+  "name": "clear-fashion",
+  "version": "1.0.0",
+  "description": "> What's the story behind each item of clothing you buy?",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sh0ri/clear-fashion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sh0ri/clear-fashion/issues"
+  },
+  "homepage": "https://github.com/Sh0ri/clear-fashion#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
+}
